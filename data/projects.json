@@ -1,0 +1,90 @@
+[
+    {
+        "id": "proj-3",
+        "title": "AI Chatbot Platform",
+        "category": "VIDEO",
+        "description": "Conversational AI platform with RAG pipeline, custom fine-tuned LLM, and real-time streaming responses.",
+        "thumbnail": "/assets/projects/project-3.jpg",
+        "isVideo": true,
+        "tech": [
+            "OpenAI API",
+            "LangChain",
+            "Next.js",
+            "Pinecone",
+            "Tailwind"
+        ],
+        "demoUrl": "#",
+        "githubUrl": "https://github.com/rohailxali",
+        "gallery": [
+            "/assets/projects/project-3.jpg"
+        ]
+    },
+    {
+        "id": "proj-4",
+        "title": "Modern Logo Collection",
+        "category": "LOGO",
+        "description": "Series of minimalist logo designs for various digital products, focusing on clean geometry and memorable symbols.",
+        "thumbnail": "/assets/projects/project-4.jpg",
+        "isVideo": false,
+        "tech": [
+            "Illustrator",
+            "Figma"
+        ],
+        "demoUrl": "#",
+        "githubUrl": null,
+        "gallery": [
+            "/assets/projects/project-4.jpg"
+        ]
+    },
+    {
+        "id": "proj-5",
+        "title": "Healthcare Dashboard",
+        "category": "MOCKUP",
+        "description": "Full-stack health analytics platform with real-time data visualization, patient tracking, and predictive insights.",
+        "thumbnail": "/assets/projects/project-5.jpg",
+        "isVideo": false,
+        "tech": [
+            "React",
+            "D3.js",
+            "Node.js",
+            "PostgreSQL",
+            "Chart.js"
+        ],
+        "demoUrl": "#",
+        "githubUrl": "https://github.com/rohailxali",
+        "gallery": [
+            "/assets/projects/project-5.jpg"
+        ]
+    },
+    {
+        "id": "proj-6",
+        "title": "SaaS Product Demo",
+        "category": "VIDEO",
+        "description": "Promotional video showcasing SaaS product features with motion graphics and smooth UI animations.",
+        "thumbnail": "/assets/projects/project-6.jpg",
+        "isVideo": true,
+        "tech": [
+            "After Effects",
+            "Premiere Pro"
+        ],
+        "demoUrl": "#",
+        "githubUrl": null,
+        "gallery": [
+            "/assets/projects/project-6.jpg"
+        ]
+    },
+    {
+        "id": "proj-1772657200987",
+        "title": "Test Portfolio Projec",
+        "category": "MOCKUP",
+        "description": "A test project added via the admin panel.",
+        "thumbnail": "/assets/projects/project-1.jpg",
+        "isVideo": false,
+        "tech": [],
+        "demoUrl": "#",
+        "githubUrl": null,
+        "gallery": [
+            "/assets/projects/project-1.jpg"
+        ]
+    }
+]

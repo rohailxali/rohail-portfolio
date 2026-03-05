@@ -1,0 +1,5 @@
+﻿<svg width="1200" height="800" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#0a0a0a"/>
+  <text x="600" y="380" font-family="Arial" font-size="72" font-weight="bold" fill="#FF5A2A" text-anchor="middle">PROJECT 4</text>
+  <text x="600" y="450" font-family="Arial" font-size="24" fill="#666" text-anchor="middle">Portfolio Thumbnail Placeholder</text>
+</svg>
