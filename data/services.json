@@ -1,0 +1,26 @@
+[
+    {
+        "id": "01",
+        "title": "Data Science & ML",
+        "description": "End-to-end ML pipelines — from raw data ingestion and EDA to feature engineering, model training, evaluation, and production deployment. Experienced with Scikit-learn, TensorFlow, XGBoost, and time-series forecasting.",
+        "icon": "chart"
+    },
+    {
+        "id": "02",
+        "title": "Full-Stack Development",
+        "description": "Building scalable web applications with React/Next.js on the frontend and FastAPI or Node.js on the backend. RESTful & GraphQL APIs, JWT authentication, PostgreSQL/MongoDB databases, and responsive mobile-first UIs.",
+        "icon": "code"
+    },
+    {
+        "id": "03",
+        "title": "Generative AI",
+        "description": "Designing and shipping production LLM systems — RAG pipelines, custom fine-tuning, LangChain agents, prompt engineering, and multi-modal AI integrations using OpenAI, Anthropic, and open-source models.",
+        "icon": "ai"
+    },
+    {
+        "id": "04",
+        "title": "Production & Cloud",
+        "description": "Containerizing applications with Docker, setting up CI/CD pipelines with GitHub Actions, and deploying to Vercel, AWS, and cloud platforms. Infrastructure-as-code mindset with a focus on reliability and zero-downtime deploys.",
+        "icon": "cloud"
+    }
+]
