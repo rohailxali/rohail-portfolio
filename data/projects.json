@@ -32,7 +32,7 @@
         "thumbnail": "/assets/projects/project-1.jpg",
         "isVideo": false,
         "tech": ["Next.js", "React", "FastAPI", "PostgreSQL", "Tailwind CSS", "Framer Motion"],
-        "demoUrl": null,
+        "demoUrl": "https://tripnest-teal.vercel.app/",
         "githubUrl": "https://github.com/rohailxali",
         "gallery": ["/assets/projects/project-1.jpg"],
         "features": [
