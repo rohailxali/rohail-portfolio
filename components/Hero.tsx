@@ -120,7 +120,7 @@ export default function Hero() {
                                 src="/assets/headshot.png"
                                 alt="Muhammad Rohail Ali — Data Scientist & Full-Stack Developer"
                                 fill
-                                className="object-cover"
+                                className="object-cover object-top"
                                 priority
                                 sizes="(max-width: 768px) 256px, 320px"
                             />
